@@ -1,0 +1,19 @@
+{
+  "name": "heroku-discord-bot",
+  "version": "1.0.0",
+  "description": "a basic discord bot example to run on a heroku dyno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwitchGM/heroku-discord-bot.git"
+  },
+  "author": "joe amphlett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwitchGM/heroku-discord-bot/issues"
+  },
+  "homepage": "https://github.com/SwitchGM/heroku-discord-bot#readme"
+}
