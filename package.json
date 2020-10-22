@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SwitchGM/heroku-discord-bot/issues"
   },
-  "homepage": "https://github.com/SwitchGM/heroku-discord-bot#readme"
+  "homepage": "https://github.com/SwitchGM/heroku-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  }
 }
